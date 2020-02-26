@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pahlawan"
+        android:icon="@drawable/ic_pahlawan_circle_black_24dp"
+        android:title="@string/pahlawan" />
+
+    <item
+        android:id="@+id/navigation_biodata"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/biodata" />
+
+</menu>
